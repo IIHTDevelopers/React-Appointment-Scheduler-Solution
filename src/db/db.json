@@ -1,0 +1,43 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. John Doe",
+      "specialization": "Cardiologist",
+      "availableSlots": [
+        {
+          "id": 1,
+          "date": "2023-11-15",
+          "time": "09:00 AM - 11:00 AM"
+        },
+        {
+          "id": 2,
+          "date": "2023-11-15",
+          "time": "01:00 PM - 03:00 PM"
+        },
+        {
+          "id": 3,
+          "date": "2023-12-20",
+          "time": "10:00 AM - 10:00 PM"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dr. Jane Smith",
+      "specialization": "Dermatologist",
+      "availableSlots": [
+        {
+          "id": 1,
+          "date": "2023-11-16",
+          "time": "10:00 AM - 12:00 PM"
+        },
+        {
+          "id": 2,
+          "date": "2023-11-16",
+          "time": "03:00 PM - 05:00 PM"
+        }
+      ]
+    }
+  ]
+}
